@@ -15,7 +15,7 @@ Bibliotecas utilizadas:
 
 ### GET
 
-/api/v1/person
+### `/api/v1/person`
 
 Parâmetros
 
@@ -55,7 +55,7 @@ Respostas
   Not Found
 
 
-/api/v1/person/{id}
+### `/api/v1/person/{id}`
 
 Parâmetros
 
@@ -94,7 +94,7 @@ Respostas
 
 ### POST
 
-/api/v1/person
+### `/api/v1/person`
 
 Parâmetros
 
@@ -152,7 +152,8 @@ Respostas
   Not Found
 
 ### PUT
-/api/v1/person/{id}
+
+### `/api/v1/person/{id}`
 
 Parâmetros
 - id (Obrigatório). Tipo: int64, path
@@ -213,7 +214,7 @@ Respostas
 
 ### DELETE
 
-/api/v1/person/{id}
+### `/api/v1/person/{id}`
 
 Parâmetros
 - id (Obrigatório). Tipo: int64, path
